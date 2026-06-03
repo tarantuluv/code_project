@@ -1,5 +1,12 @@
 How to build and run:
+Visual Studio: 
+Please, open Visual Studio, Select File -> Open-> Folder and choose this project folder.
+And just run the project
 
+
+
+
+Other:
 Using CMake:
 mkdir build
 cd build
